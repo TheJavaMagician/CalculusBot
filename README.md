@@ -1,0 +1,2 @@
+# CalculusBot
+Calculus Discord Bot
