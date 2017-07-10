@@ -16,5 +16,6 @@ Getting Started
 You will need a discord authorisation token to be assigned in the main class.
 
 You will also need to create a postgresql database and assign its credentials in the main CalculusListener.java
+(A schema will follow)
 
 You require Java 8 JDK and maven.
